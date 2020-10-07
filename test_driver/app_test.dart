@@ -36,7 +36,7 @@ void main() {
       And I tap "Continue"
       And I enter "5"
       And I tap "Continue"
-      Then I should see "52g - course ground coffee"
+      Then I should see "52g - medium ground coffee"
       And I should see "887g - water"
     */
     test("should give recommendation for Drip Machine", () {
